@@ -39,9 +39,9 @@ Zustand는 Provider 필요 없이 사용할 수 있는 형태의 전역 상태�
 
 ## Zustand는 어떻게 데이터를 저장하고 관리할까?
 
-[류지애 - Vanilla Store와 React Store의 차이점과 내부 구현](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/3%EC%A3%BC%EC%B0%A8/%EB%A5%98%EC%A7%80%EC%98%88/3%EC%A3%BC%EC%B0%A8_%EB%A5%98%EC%A7%80%EC%98%88_%EA%B0%9C%EC%9D%B8.md)
-[성지현 - 상태 구독 메커니즘과 subscribe 메서드 구현 분석](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%84%B1%EC%A7%80%ED%98%84/3%EC%A3%BC%EC%B0%A8_%EC%84%B1%EC%A7%80%ED%98%84_%EA%B0%9C%EC%9D%B8.md)
-[심현준 - create VS createStore 차이점 분석](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%8B%AC%ED%98%84%EC%A4%80/3%EC%A3%BC%EC%B0%A8_%EC%8B%AC%ED%98%84%EC%A4%80_%EA%B0%9C%EC%9D%B8.md)
+[류지애 - Vanilla Store와 React Store의 차이점과 내부 구현](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/3%EC%A3%BC%EC%B0%A8/%EB%A5%98%EC%A7%80%EC%98%88/3%EC%A3%BC%EC%B0%A8_%EB%A5%98%EC%A7%80%EC%98%88_%EA%B0%9C%EC%9D%B8.md)  
+[성지현 - 상태 구독 메커니즘과 subscribe 메서드 구현 분석](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%84%B1%EC%A7%80%ED%98%84/3%EC%A3%BC%EC%B0%A8_%EC%84%B1%EC%A7%80%ED%98%84_%EA%B0%9C%EC%9D%B8.md)  
+[심현준 - create VS createStore 차이점 분석](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%8B%AC%ED%98%84%EC%A4%80/3%EC%A3%BC%EC%B0%A8_%EC%8B%AC%ED%98%84%EC%A4%80_%EA%B0%9C%EC%9D%B8.md)  
 [최여진 - Zustand useShallow 제대로 쓰기](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%B5%9C%EC%97%AC%EC%A7%84/3%EC%A3%BC%EC%B0%A8_%EC%B5%9C%EC%97%AC%EC%A7%84_%EA%B0%9C%EC%9D%B8.md)
 
 Zustand는 Vanilla Store, React Store 두 가지 형태의 스토어를 제공한다.  
@@ -317,7 +317,7 @@ const compareIterables = (
 
 ## Zustand의 불변성 및 비동기 데이터 관리
 
-[이지훈 - 불변성(Immutability)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%A7%80%ED%9B%88/3%EC%A3%BC%EC%B0%A8_%EC%9D%B4%EC%A7%80%ED%9B%88_%EA%B0%9C%EC%9D%B8.md)
+[이지훈 - 불변성(Immutability)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%A7%80%ED%9B%88/3%EC%A3%BC%EC%B0%A8_%EC%9D%B4%EC%A7%80%ED%9B%88_%EA%B0%9C%EC%9D%B8.md)  
 [조명근 - Zustand에서의 비동기 상태 관리 패턴 (async actions)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EB%AA%85%EA%B7%BC/3%EC%A3%BC%EC%B0%A8_%EC%A1%B0%EB%AA%85%EA%B7%BC_%EA%B0%9C%EC%9D%B8.md)
 
 Zustnad는 Client 상태관리에 적합하다. Server 상태가 필요한건 react-query 등 다른 서버 상태관리 툴을 참고하자.
