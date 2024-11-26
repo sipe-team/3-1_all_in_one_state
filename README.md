@@ -98,3 +98,13 @@ Redux, Zustand, Recoil, Jotai, MobX를 중심으로 한 상태 관리 라이브�
 - 5번 `createSlice`와 `createReducer` 동작 원리 (심현준)
 - 6번 `combineReducers`의 내부 구현 분석 (성지현)
 - 7번 Redux의 상태 정규화 패턴과 구현 (류지예)
+
+## 5주차: Tanstack-Query 각자 주제 정해서 공부해보기
+
+- 1번 2024년 TanStack Query 의 큰 Issue, Discussion, PR 에 대해서 소개 (이지훈)
+- 2번 Query Key 설계 전략과 컨벤션 (심미진)
+- 3번 캐시 무효화(invalidation) 전략 (조명근)
+- 4번 next.js 에서 tanstack query 를 써야할까? 쓴다면 어떻게 써야할까? (최여진)
+- 5번 prefetchQuery & dehydrate  (심현준)
+- 6번 staleTime vs cacheTime (성지현)
+- 7번 prefetching과 infinite query (류지예)
