@@ -102,14 +102,18 @@ Redux, Zustand, Recoil, Jotai, MobX를 중심으로 한 상태 관리 라이브�
 
 ### 4주차 스터디 내용 정리
 
-[4주차 총정리](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8_redux_%EA%B0%9C%EB%B3%84.md)를 해보았습니다! 자세한 내용은 하위 링크를 확인해주세요!
+[4주차 총정리](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8_redux.md)를 해보았습니다! 자세한 내용은 하위 링크를 확인해주세요!
 
 ## 5주차: Tanstack-Query 각자 주제 정해서 공부해보기
 
 - [1번 2024년 TanStack Query 의 큰 Issue, Discussion, PR 에 대해서 소개 (이지훈)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%A7%80%ED%9B%88/5%EC%A3%BC%EC%B0%A8_%EC%9D%B4%EC%A7%80%ED%9B%88.md)
-- [2번 Query Key 설계 전략과 컨벤션 (심미진)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8_%EC%8B%AC%EB%AF%B8%EC%A7%84_%EA%B0%9C%EC%9D%B8.md)
-- [3번 캐시 무효화(invalidation) 전략 (조명근)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8_%EC%A1%B0%EB%AA%85%EA%B7%BC_%EA%B0%9C%EC%9D%B8.md)
+- [2번 Query Key 설계 전략과 컨벤션 (심미진)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%8B%AC%EB%AF%B8%EC%A7%84/5%EC%A3%BC%EC%B0%A8_%EC%8B%AC%EB%AF%B8%EC%A7%84_%EA%B0%9C%EC%9D%B8.md)
+- [3번 캐시 무효화(invalidation) 전략 (조명근)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EB%AA%85%EA%B7%BC/5%EC%A3%BC%EC%B0%A8_%EC%A1%B0%EB%AA%85%EA%B7%BC_%EA%B0%9C%EC%9D%B8.md)
 - [4번 next.js 에서 tanstack query 를 써야할까? 쓴다면 어떻게 써야할까? (최여진)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%B5%9C%EC%97%AC%EC%A7%84/5%EC%A3%BC%EC%B0%A8_%EC%B5%9C%EC%97%AC%EC%A7%84_%EA%B0%9C%EC%9D%B8.md)
 - [5번 prefetchQuery & dehydrate  (심현준)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%8B%AC%ED%98%84%EC%A4%80/5%EC%A3%BC%EC%B0%A8_%EC%8B%AC%ED%98%84%EC%A4%80_%EA%B0%9C%EC%9D%B8.md)
 - [6번 staleTime vs cacheTime (성지현)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%84%B1%EC%A7%80%ED%98%84/5%EC%A3%BC%EC%B0%A8_%EC%84%B1%EC%A7%80%ED%98%84_%EA%B0%9C%EC%9D%B8.md)
 - [7번 prefetching과 infinite query (류지예)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EB%A5%98%EC%A7%80%EC%98%88/5%EC%A3%BC%EC%B0%A8_%EB%A5%98%EC%A7%80%EC%98%88_%EA%B0%9C%EC%9D%B8.md)
+
+### 5주차 스터디 내용 정리
+
+[5주차 총정리]()를 해보았습니다! 자세한 내용은 하위 링크를 확인해주세요!
