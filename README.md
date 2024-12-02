@@ -33,6 +33,8 @@ Redux, Zustand, Recoil, Jotai, MobX를 중심으로 한 상태 관리 라이브�
 - 맛있는 음식먹기
 - 규칙 정하기
 
+<br>
+
 ## 2주차 : React 상태 관리 아키텍쳐
 
 2주차 스터디 내용을 정리해보았습니다. 세부적인 것은 하위 주제들을 확인해주세요!
@@ -64,6 +66,8 @@ Redux, Zustand, Recoil, Jotai, MobX를 중심으로 한 상태 관리 라이브�
 - [Fiber Architecture](2주차/2주차_React-Fiber-Architecture.md)
 - [useSyncExternalStore](2주차/2주차_useSyncExternalStore.md)
 
+<br>
+
 ## 3주차 : Zustand 심층 분석
 
 - [공통주제] : **Zustand는 왜 ProviderLess?**
@@ -83,6 +87,8 @@ Redux, Zustand, Recoil, Jotai, MobX를 중심으로 한 상태 관리 라이브�
 ### 3주차 스터디 내용 정리
 
 [3주차 총정리](/3주차/3주차_zustand.md)를 해보았습니다! 자세한 내용은 하위 링크를 확인해주세요!
+
+<br>
 
 ## 4주차: Redux 미들웨어 아키텍처
 
@@ -104,6 +110,8 @@ Redux, Zustand, Recoil, Jotai, MobX를 중심으로 한 상태 관리 라이브�
 
 [4주차 총정리](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8_redux.md)를 해보았습니다! 자세한 내용은 하위 링크를 확인해주세요!
 
+<br>
+
 ## 5주차: Tanstack-Query 각자 주제 정해서 공부해보기
 
 - [1번 2024년 TanStack Query 의 큰 Issue, Discussion, PR 에 대해서 소개 (이지훈)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%A7%80%ED%9B%88/5%EC%A3%BC%EC%B0%A8_%EC%9D%B4%EC%A7%80%ED%9B%88.md)
@@ -117,3 +125,14 @@ Redux, Zustand, Recoil, Jotai, MobX를 중심으로 한 상태 관리 라이브�
 ### 5주차 스터디 내용 정리
 
 [5주차 총정리](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8_tanstack-query.md)를 해보았습니다! 자세한 내용은 하위 링크를 확인해주세요!
+
+<br>
+
+## 6주차 예정 : jotai, recoil 과 함께하는 atomic 여행
+
+- 1번 Recoil의 RecoilRoot와 Jotai의 Provider 비교 (이지훈)
+- 2번 atom() 함수의 내부 구현과 상태 초기화 프로세스 & 업데이트 리렌더링 최적화 방식 (심현준)
+- 3번 selector() 함수의 내부 동작 분석 (심미진)
+- 4번 atom 구독 메커니즘 & 상태 변경 감지와 전파 과정 (성지현)
+- 5번 atomWithDefault와 loadable 패턴 , 비동기 (조명근,최여진)
+- 6번 atomFamily 함수 구현 분석 (류지예)
