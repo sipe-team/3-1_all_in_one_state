@@ -71,6 +71,7 @@ Redux, Zustand, Recoil, Jotai, MobX를 중심으로 한 상태 관리 라이브�
 ## 3주차 : Zustand 심층 분석
 
 - [공통주제] : **Zustand는 왜 ProviderLess?**
+
   - [이지훈](https://hooninedev.com/240818/)
   - [류지예](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/3%EC%A3%BC%EC%B0%A8/%EB%A5%98%EC%A7%80%EC%98%88/3%EC%A3%BC%EC%B0%A8_%EB%A5%98%EC%A7%80%EC%98%88_%EA%B3%B5%ED%86%B5.md)
   - [성지현](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%84%B1%EC%A7%80%ED%98%84/3%EC%A3%BC%EC%B0%A8_%EC%84%B1%EC%A7%80%ED%98%84_%EA%B3%B5%ED%86%B5.md)
@@ -93,6 +94,7 @@ Redux, Zustand, Recoil, Jotai, MobX를 중심으로 한 상태 관리 라이브�
 ## 4주차: Redux 미들웨어 아키텍처
 
 - [공통주제] : 리덕스 붐이 다시 올까? (왜 안 쓰려고 하는지? , 왜 방대하게 설계되었고, 다른 상태 관리 라이브러리로 넘어가는가?)
+
   - [류지예](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/4%EC%A3%BC%EC%B0%A8/%EB%A5%98%EC%A7%80%EC%98%88/4%EC%A3%BC%EC%B0%A8_%EB%A5%98%EC%A7%80%EC%98%88_%EA%B3%B5%ED%86%B5.md)
   - [심미진](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%8B%AC%EB%AF%B8%EC%A7%84/4%EC%A3%BC%EC%B0%A8_%EC%8B%AC%EB%AF%B8%EC%A7%84_%EA%B3%B5%ED%86%B5.md)
   - [심현준](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%8B%AC%ED%98%84%EC%A4%80/4%EC%A3%BC%EC%B0%A8_%EC%8B%AC%ED%98%84%EC%A4%80_%EA%B3%B5%ED%86%B5.md)
@@ -118,7 +120,7 @@ Redux, Zustand, Recoil, Jotai, MobX를 중심으로 한 상태 관리 라이브�
 - [2번 Query Key 설계 전략과 컨벤션 (심미진)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%8B%AC%EB%AF%B8%EC%A7%84/5%EC%A3%BC%EC%B0%A8_%EC%8B%AC%EB%AF%B8%EC%A7%84_%EA%B0%9C%EC%9D%B8.md)
 - [3번 캐시 무효화(invalidation) 전략 (조명근)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EB%AA%85%EA%B7%BC/5%EC%A3%BC%EC%B0%A8_%EC%A1%B0%EB%AA%85%EA%B7%BC_%EA%B0%9C%EC%9D%B8.md)
 - [4번 next.js 에서 tanstack query 를 써야할까? 쓴다면 어떻게 써야할까? (최여진)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%B5%9C%EC%97%AC%EC%A7%84/5%EC%A3%BC%EC%B0%A8_%EC%B5%9C%EC%97%AC%EC%A7%84_%EA%B0%9C%EC%9D%B8.md)
-- [5번 prefetchQuery & dehydrate  (심현준)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%8B%AC%ED%98%84%EC%A4%80/5%EC%A3%BC%EC%B0%A8_%EC%8B%AC%ED%98%84%EC%A4%80_%EA%B0%9C%EC%9D%B8.md)
+- [5번 prefetchQuery & dehydrate (심현준)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%8B%AC%ED%98%84%EC%A4%80/5%EC%A3%BC%EC%B0%A8_%EC%8B%AC%ED%98%84%EC%A4%80_%EA%B0%9C%EC%9D%B8.md)
 - [6번 staleTime vs cacheTime (성지현)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%84%B1%EC%A7%80%ED%98%84/5%EC%A3%BC%EC%B0%A8_%EC%84%B1%EC%A7%80%ED%98%84_%EA%B0%9C%EC%9D%B8.md)
 - [7번 prefetching과 infinite query (류지예)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/5%EC%A3%BC%EC%B0%A8/%EB%A5%98%EC%A7%80%EC%98%88/5%EC%A3%BC%EC%B0%A8_%EB%A5%98%EC%A7%80%EC%98%88_%EA%B0%9C%EC%9D%B8.md)
 
@@ -130,9 +132,12 @@ Redux, Zustand, Recoil, Jotai, MobX를 중심으로 한 상태 관리 라이브�
 
 ## 6주차 예정 : jotai, recoil 과 함께하는 atomic 여행
 
-- 1번 Recoil의 RecoilRoot와 Jotai의 Provider 비교 (이지훈)
-- 2번 atom() 함수의 내부 구현과 상태 초기화 프로세스 & 업데이트 리렌더링 최적화 방식 (심현준)
-- 3번 selector() 함수의 내부 동작 분석 (심미진)
-- 4번 atom 구독 메커니즘 & 상태 변경 감지와 전파 과정 (성지현)
-- 5번 atomWithDefault와 loadable 패턴 , 비동기 (조명근,최여진)
-- 6번 atomFamily 함수 구현 분석 (류지예)
+- [1번 Recoil의 RecoilRoot와 Jotai의 Provider 비교 (이지훈)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/6주차/이지훈/6주차_이지훈_개인.md)
+- [2번 atom() 함수의 내부 구현과 상태 초기화 프로세스 & 업데이트 리렌더링 최적화 방식 (심현준)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/6주차/심현준/6주차_심현준_개인.md)
+- [3번 selector() 함수의 내부 동작 분석 (심미진)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/6주차/6주차_심미진_개인.md)
+- [4번 atom 구독 메커니즘 & 상태 변경 감지와 전파 과정 (성지현)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/6주차/성지현/6주차_성지현.md)
+- [5번 atomWithDefault와 loadable 패턴 , 비동기 (조명근)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/6주차/6주차_조명근_개인.md)
+- [6번 atomFamily 함수 구현 분석 (류지예)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/6주차/류지예/6주차_류지예_개인.md)
+- [7번 Recoil의 메모리 누수 문제 (최여진)](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/6주차/최여진/6주차_최여진_개인.md)
+
+[6주차 총정리](https://github.com/sipe-team/3-1_all_in_one_state/blob/main/6주차/6주차_jotai_recoil.md)를 해보았습니다! 자세한 내용은 하위 링크를 확인해주세요!
